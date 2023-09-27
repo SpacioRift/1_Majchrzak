@@ -35,12 +35,21 @@ public class System_hospitalier {
 	
 	private String analyserRequete(Requête requête) {
 		// Analyser la requête
+/*
+Voici un commentaire explicatif sur la méthode analyserRequete :
+Cette méthode permet d'analyser les requêtes qui sont passé en paramètre.
+*/
 		return "requête analysée";
 	}
 	
 	private String comparerDonnes() {
 		// Comparaison des données
+/*
+Voici un commentaire explicatif sur la méthode comparerDonnes.
+Cette méthode retourne le message suivant :"cluster trouvé".
+*/
 		return "Cluster trouvé";
 	}
 
 }
+
